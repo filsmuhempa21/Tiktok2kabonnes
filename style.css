@@ -1,0 +1,58 @@
+boby{
+  fontbfamily:arial,sans-serif;
+  background-color:#f0f0f0
+  display:flex;
+  justify-content:center;
+  allign-items:center;
+  heigh:100vh;
+  margin:0;
+}
+
+.container{
+  background-color:#ffffff;
+  padding:20px;
+  barder-radius:10px;
+  box-shadow:0 2px 10px rgba(0,0,0,0.1);
+  text-allign:center;
+  width:300px;
+}
+h1{
+  font-size:20px;
+  margin-bottom:20px;
+}
+input-group{
+  margin-bottom:15px;
+label{
+  display:block;
+  margin-bottom:5px;
+}
+input{
+  width:100%;
+  padding:10px;
+  border:1px solid #ccc;
+  border-radius:5px;
+}
+button{
+  width:100%;
+  padding:10px;
+  background-color: #fe2c55;
+  color:white;
+  border:nome;
+  border-radius:5px;
+  cursor:pointer;
+}
+button:hover{
+  background-color: #d21f3d;
+}
+p{
+  margin-top:10px;
+}
+a{
+  color: #fe2c55;
+  text-decoration: nome;
+}
+a:hover{
+  text-decoration: underline
+}
+  
+
